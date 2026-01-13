@@ -1,0 +1,232 @@
+@media (max-width:1400px) {
+    .customer-phone img{
+        width: 80%;
+    }
+    .customer-phone{
+        right: 0px !important;
+    }
+    .arrow{
+        display: none;
+    }
+}
+@media (max-width:1280px) {
+    .lower-right-head{
+        display: none;
+    }
+    .lower-header .nav-bar{
+        margin-left: auto !important;
+    }
+}
+
+@media (max-width:1200px) {
+   .customer-heading{
+        width: 52% !important;
+   }
+   .feature-box {
+        padding: 38px 50px !important;
+   }
+    .benefit-headingelement{
+        width: 100% !important;
+    }
+    .service-slider{
+        padding: 80px;
+    }
+    .services-head{
+        width: 100% !important;
+    }
+    .services-head h1{
+        font-size: 40px !important;
+    }
+    .service-slider-content{
+        width: 100% !important;
+    }
+    .outside-service {
+         margin-right: 0 !important;
+    }
+    .service-slider {
+        padding: 50px !important;
+  }
+}
+
+@media (max-width:1000px) {
+    .top-footer h5{
+        font-size: 30px !important;
+    }
+    .top-footer{
+        padding: 32px;
+    }
+}
+
+@media (max-width:992px) {
+     .top-footer h5{
+        text-align: center;
+    }
+    .foot-items{
+        padding: 0px;
+        justify-content: center;
+    }
+    .feature-box-2 img{
+        right: -5% !important;
+        top: 120% !important;
+    }
+    .benefits-bg img{
+        width: 80% !important;
+    }
+    .banner-firstpart{
+        padding: 80px 0px;
+    }
+    .right-side-img {
+    width: 150%;
+  }
+
+  .banner-img-2 {
+    right: 30%;
+    bottom: 15px;
+  }
+
+}
+@media (max-width:991px) {
+    .customer-heading{
+        width: 100% !important;
+   }
+   .service-slider {
+    flex-direction: column;
+    padding: 50px;
+  }
+
+  .service-slider-content,
+  .service-image {
+    width: 100%;
+  }
+
+  .service-image {
+    margin-top: 30px;
+    text-align: center;
+  }
+}
+@media (max-width: 768px) {
+  .service-slider {
+    padding: 40px;
+  }
+
+  .services-head h1 {
+    font-size: 34px !important;
+  }
+
+  .service-slider-content p {
+    font-size: 16px;
+    line-height: 28px;
+    width: 100%;
+  }
+  .upper-header{
+    font-size: 12px;
+  }
+  .right-side-img {
+    width: 120%;
+  }
+
+  .banner-img-1 img,
+  .banner-img-2 img {
+    width: 100%;
+    height: auto;
+  }
+
+  .banner-img-2 {
+    right: 20%;
+    bottom: 10px;
+  }
+}
+@media (max-width:540px) {
+    .top-footer h5{
+        font-size: 26px !important;
+    }
+      .top-footer{
+        padding: 28px;
+    }
+    .heading-element h1{
+        font-size: 48px !important;
+    }
+    .highlight-word::after{
+        height: 7px !important;
+        bottom: 7px !important;
+    }
+     .feature-box {
+        padding: 30px 25px !important;
+   }
+     .feature-box-2 img{
+        right: -3% !important;
+    }
+      .service-slider {
+    padding: 30px;
+  }
+
+  .services-head h1 {
+    font-size: 28px !important;
+  }
+   .banner-img-1 {
+    animation: none;
+  }
+
+  .service-slider-content p {
+    font-size: 15px;
+    line-height: 26px;
+  }
+}
+@media (max-width:480px) {
+    .heading-element h1{
+        font-size: 40px !important;
+    }
+    .feature-unique{
+        top:3% !important;
+        right: 4% !important;
+    }
+     .feature-box-2 img{
+        right: 0% !important;
+    }
+    .right-side-img {
+    width: 100%;
+  }
+  .right-side-img {
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .banner-img-2 {
+    right: 0;
+    bottom: 10px;
+  }
+}
+@media (max-width:380px) {
+    .top-footer h5{
+        font-size: 23px !important;
+    }
+      .top-footer{
+        padding: 25px;
+    }
+    .slider-content{
+        padding: 32px !important;
+    }
+    .slide-name {
+        padding: 13px !important;
+    }
+    .customer-slider{
+        width: 330px !important;
+    }
+      .service-slider {
+    padding: 22px;
+  }
+
+  .services-head h1 {
+    font-size: 24px !important;
+  }
+   .right-side-img {
+    width: 100%;
+  }
+
+  .banner-img-1 img,
+  .banner-img-2 img {
+    max-width: 100%;
+    height: auto;
+  }
+
+}
